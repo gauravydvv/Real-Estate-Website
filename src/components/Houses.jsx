@@ -42,7 +42,7 @@ const Houses = () => {
     <div>
       <div className="text-white flex flex-wrap justify-between mx-auto  mt-36 p-4 md:p-7 gap-4 md:gap-0">
         <div onClick={handle1} className="text-white border cursor-pointer border-[rgba(255,255,255,0.125)] rounded-md  px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house2.png" alt="" />
+          <img  src="assets/houses/house2.png" alt="" />
           <div className="py-5">
             <div className="font-bold">Apartment</div>
             <div>
@@ -53,7 +53,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle2} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house1.png" alt="" />
+          <img  src="assets/houses/house1.png" alt="" />
           <div className="py-5">
             <div className="font-bold">PentHouse</div>
             <div>
@@ -64,7 +64,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle3} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house3.png" alt="" />
+          <img  src="assets/houses/house3.png" alt="" />
           <div className="py-5">
             <div className="font-bold">FarmHouse</div>
             <div>
@@ -75,7 +75,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle4} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house4.png" alt="" />
+          <img  src="assets/houses/house4.png" alt="" />
           <div className="py-5">
             <div className="font-bold">House</div>
             <div>
@@ -89,7 +89,7 @@ const Houses = () => {
 
       <div className="text-white flex flex-wrap justify-between mx-auto mt-36 p-4 md:p-7 gap-4 md:gap-0">
         <div onClick={handle5} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house5.png" alt="" />
+          <img  src="assets/houses/house5.png" alt="" />
           <div className="py-5">
             <div className="font-bold">Farmhouse</div>
             <div>
@@ -100,7 +100,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle6} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house6.png" alt="" />
+          <img  src="assets/houses/house6.png" alt="" />
           <div className="py-5">
             <div className="font-bold">House</div>
             <div>
@@ -111,7 +111,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle7} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house7.png" alt="" />
+          <img  src="assets/houses/house7.png" alt="" />
           <div className="py-5">
             <div className="font-bold">Apartment</div>
             <div>
@@ -122,7 +122,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle8} className="border border-[rgba(255,255,255,0.125)] rounded-md cursor-pointer px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house8.png" alt="" />
+          <img  src="assets/houses/house8.png" alt="" />
           <div className="py-5">
             <div className="font-bold">PentHouse</div>
             <div>
@@ -136,7 +136,7 @@ const Houses = () => {
 
       <div className="text-white flex flex-wrap justify-between mx-auto mt-36 p-4 md:p-7 gap-4 md:gap-0">
         <div onClick={handle9} className="border border-[rgba(255,255,255,0.125)] rounded-md cursor-pointer px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house9.png" alt="" />
+          <img  src="assets/houses/house9.png" alt="" />
           <div className="py-5">
             <div className="font-bold">BeachHouse</div>
             <div>
@@ -147,7 +147,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle10} className="border border-[rgba(255,255,255,0.125)] rounded-md cursor-pointer px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house10.png" alt="" />
+          <img  src="assets/houses/house10.png" alt="" />
           <div className="py-5">
             <div className="font-bold">FarmHouse</div>
             <div>
@@ -158,7 +158,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle11} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house11.png" alt="" />
+          <img  src="assets/houses/house11.png" alt="" />
           <div className="py-5">
             <div className="font-bold">PentHouse</div>
             <div>
@@ -169,7 +169,7 @@ const Houses = () => {
           </div>
         </div>
         <div onClick={handle12} className="border border-[rgba(255,255,255,0.125)] cursor-pointer rounded-md px-4 py-4 hover:shadow-2xl hover:shadow-cyan-900 hover:transition-shadow w-full md:w-5/12 lg:w-[23%]">
-          <img  src="/assets/houses/house12.png" alt="" />
+          <img  src="assets/houses/house12.png" alt="" />
           <div className="py-5">
             <div className="font-bold">Apartment</div>
             <div>
