@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Routes  , Route } from 'react-router-dom'
 import Phone1 from './Mobilebig/Phone1'
-import Phone2 from './Mobilebig/phone2'
+import Phone2 from './Mobilebig/Phone2'
 import Phone3 from './Mobilebig/Phone3'
 import Phone4 from './Mobilebig/Phone4'
 import Phone5 from './Mobilebig/Phone5'
