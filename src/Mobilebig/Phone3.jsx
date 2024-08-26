@@ -8,7 +8,7 @@ const Phone3 = () => {
           <div className="font-bold text-2xl">FarmHouse</div>
           <div className="text-xl">47 Karachi Pakistan PA 65664</div>
           <div className="w-full md:w-max">
-            <img src="public/assets/houses/house3lg.png" alt="" />
+            <img src="assets/houses/house3lg.png" alt="" />
           </div>
           <div className="py-8 md:py-14">
             <div className="flex flex-col text-2xl md:flex-row gap-4 md:gap-12 py-5">
